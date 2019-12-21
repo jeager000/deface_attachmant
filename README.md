@@ -8,3 +8,4 @@
 <p>pip install -r requirements.txt</p>
 <h3>Menjalankan:</h3>
 <p>python exploit.py</p>
+<img src="img/Screenshot_2019-12-21-17-23-28-977_com.termux.png">
